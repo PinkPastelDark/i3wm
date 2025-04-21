@@ -1,0 +1,10 @@
+# Add this to the end of your configuration file ---
+
+# class                 border      backgr.     text        indicator   child_border
+client.focused          #1f1a1b     #1f1a1b     #ffd9e3     #5e5c64     #1f1a1b
+client.focused_inactive #1f1a1b     #1f1a1b     #ffd9e3     #5e5c64     #1f1a1b
+client.unfocused        #1f1a1b     #1f1a1b     #9a9996     #5e5c64     #1f1a1b
+client.urgent           #930006     #930006     #ffb4a9     #930006     #930006
+client.placeholder      #1f1a1b     #1f1a1b     #ebe0e1     #1f1a1b     #1f1a1b
+
+client.background       #1f1a1b
